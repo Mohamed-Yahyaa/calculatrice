@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Solicode"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-10-12 11:57:13 AM"/>
+        <attribute name="created" value="U29saWNvZGU7REVTS1RPUC1VSjFJM0ZLOzIwMjEtMTAtMTI7MTA6NDU6MjAgQU07MzEyOA=="/>
+        <attribute name="edited" value="U29saWNvZGU7REVTS1RPUC1VSjFJM0ZLOzIwMjEtMTAtMTI7MTE6NTc6MTMgQU07MTszMjQy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="X" type="Integer" array="False" size=""/>
+            <assign variable="X" expression="90"/>
+            <declare name="G" type="Integer" array="False" size=""/>
+            <assign variable="G" expression="70"/>
+            <output expression="G + X" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
